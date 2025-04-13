@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GastosComunidadForm
 
 ## Descripción
@@ -50,4 +49,3 @@ CREATE TABLE Deudas (
 );
 =======
 # GastosComunidadForm
->>>>>>> e7712aeea206fcbcbc7177c539095549f4099e94
