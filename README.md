@@ -14,9 +14,9 @@
 ## Requisitos
 
 - **Sistema operativo**: Windows (se recomienda Windows 10 o superior).
-- **Lenguaje**: Visual Basic .NET.
-- **Base de datos**: MySQL (con una base de datos llamada `gastos_db`).
-- **Visual Studio**: Cualquier versión que soporte VB.NET.
+- **Lenguaje**: Visual Basic .NET ![Visual Basic](https://img.icons8.com/color/48/000000/visual-basic.png)
+- **Base de datos**: MySQL ![MySQL](https://img.icons8.com/ios/50/000000/mysql-logo.png) (con una base de datos llamada `gastos_db`).
+- **Visual Studio**: Cualquier versión que soporte VB.NET ![Visual Studio](https://img.icons8.com/ios/50/000000/visual-studio.png)
 
 ## Instalación
 
@@ -66,6 +66,7 @@ En tu proyecto de Visual Basic, configura la cadena de conexión a la base de da
 
 ```vb
 Dim conn As New MySqlConnection("Server=localhost;Database=gastos_db;Uid=root;Pwd=tu_contraseña;")
+
  ```
 Ejecutar la aplicación
 Abre el proyecto en Visual Studio.
