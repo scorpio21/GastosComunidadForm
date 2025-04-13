@@ -68,19 +68,19 @@ En tu proyecto de Visual Basic, configura la cadena de conexión a la base de da
 Dim conn As New MySqlConnection("Server=localhost;Database=gastos_db;Uid=root;Pwd=tu_contraseña;")
 
  ```
-Ejecutar la aplicación
+### Ejecutar la aplicación
 Abre el proyecto en Visual Studio.
 
 Configura la base de datos como se describe arriba.
 
 Ejecuta la aplicación, y podrás registrar gastos, ver las deudas y hacer un seguimiento del saldo pendiente.
 
-Contribuciones
+### Contribuciones
 Las contribuciones son bienvenidas. Si tienes alguna sugerencia, corrección o mejora, no dudes en abrir un pull request.
 
-Licencia
+### Licencia
 Este proyecto está bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
 
-Desarrollado por Lopera
+### Desarrollado por Lopera
 
 Repositorio: https://github.com/scorpio21/GastosComunidadForm
