@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GastosComunidadForm
 
 ## Descripción
@@ -47,3 +48,6 @@ CREATE TABLE Deudas (
     saldo DECIMAL(10, 2),
     fecha DATE
 );
+=======
+# GastosComunidadForm
+>>>>>>> e7712aeea206fcbcbc7177c539095549f4099e94
